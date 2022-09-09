@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Gabriel Ribeiro / Gabriel Ribeiro"
+title                    : "Gabriel Ribeiro"
 title_separator          : "-"
 name                     : &name "Gabriel Ribeiro"
-description              : &description "personal description"
+description              : &description "I'm currently doing my masters degree on theoretical physics. My field of research is mostly General Relativity, and I'm currently studying modified theories of gravity. I'm particularly interested in quantum gravity and information theory, but my interests are far spreaded out to be listed."
 url                      : https://gabrielpachecoribeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabrielpachecoribeiro.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Gabriel Ribeiro"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm a bachelor on physics, currently doing my masters degree."
+  location         : "Belém, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=qRqV2CgAAAAJ&hl=pt-BR"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :"https://www.researchgate.net/profile/Gabriel-Ribeiro-39"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pachecoribeiro"
+  github           : "gabrielpachecoribeiro"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8405-3243"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "GRPhysicist"
   vine             :
   weibo            :
   xing             :
