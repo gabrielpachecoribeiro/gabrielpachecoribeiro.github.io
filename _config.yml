@@ -11,9 +11,9 @@ title                    : "Gabriel Ribeiro / Gabriel Ribeiro"
 title_separator          : "-"
 name                     : &name "Gabriel Ribeiro"
 description              : &description "personal description"
-url                      : https://gabrielribeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gabrielpachecoribeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gabrielribeiro.github.io"
+repository               : "gabrielpachecoribeiro.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
