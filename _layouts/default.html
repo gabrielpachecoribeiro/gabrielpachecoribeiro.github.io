@@ -11,13 +11,6 @@ layout: compress
     {% include head/custom.html %}
   </head>
   
-  <ul>
-  {% for page in site.pages %}
-    {% if page.menu == 'main' %}
-      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
   
 
   <body>
