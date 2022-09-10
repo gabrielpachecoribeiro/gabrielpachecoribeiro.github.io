@@ -12,12 +12,10 @@ redirect_from:
 
 I am currently a masters student of Physics at the Federal University of Pará. 
 
-I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics!
-
 Current and previous work
 ======
 
-- I'm currently working on modified gravity and it's applications under the orientation of professor Luís Carlos Bassalo Crispino (here's his [curriculum Lattes](http://lattes.cnpq.br/4033994493756291) and [google scholar profile](https://scholar.google.com.sg/citations?user=Q0R_iqQAAAAJ&hl=en)) and professor Gonzalo J. Olmo (here's his [ResearchGate profile](https://www.researchgate.net/profile/Gonzalo-Olmo), [google scholar profile](https://scholar.google.com/citations?user=oqZg53cAAAAJ) and [website](https://www.uv.es/olalgon/publico/CV.html)). .
+- I'm currently working on modified gravity and it's applications under the orientation of professor Luís Carlos Bassalo Crispino (here's his [curriculum Lattes](http://lattes.cnpq.br/4033994493756291) and [google scholar profile](https://scholar.google.com.sg/citations?user=Q0R_iqQAAAAJ&hl=en)) and professor Gonzalo J. Olmo (here's his [ResearchGate profile](https://www.researchgate.net/profile/Gonzalo-Olmo), [google scholar profile](https://scholar.google.com/citations?user=oqZg53cAAAAJ) and [website](https://www.uv.es/olalgon/publico/CV.html)). 
 
 
 - 🤝🏼  I’m looking foward to collaborate on anything that involves at least a little bit of physics and math!
