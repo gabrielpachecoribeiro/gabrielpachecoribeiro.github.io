@@ -1,7 +1,7 @@
 ---
 title: "Introdução à Relatividade Geral"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Uma breve introdução às equações de campo de Einstein. <br/><img src='/images/500x300.png'>"
 collection: notes
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Estas notas de Relatividade Geral apresentam o mínimo teórico para o aluno de graduação entender as principais características matemáticas da teoria e as equações que regem o movimento dos corpos sob a interação gravitacional. Você pode ler e baixar as notas [clicando neste link]() 
