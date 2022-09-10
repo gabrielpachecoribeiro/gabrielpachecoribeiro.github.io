@@ -1,6 +1,6 @@
 ---
 title: "Introdução à Relatividade Geral"
-excerpt: "Uma breve introdução às equações de campo de Einstein. <br/><img src='/images/gravitation.jpg'>"
+excerpt: "Uma breve introdução às equações de campo de Einstein. <br/><img src='/images/grav.jpg'>"
 collection: notes
 ---
 
