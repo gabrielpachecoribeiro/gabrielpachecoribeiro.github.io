@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Funções Especiais para Telecomunicações"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2024-specfunc
+venue: "UFPA, Engenharia de Telecomunicações"
+date: 2024-08-01
+location: "Belém, Brasil"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
