@@ -10,7 +10,7 @@ redirect_from:
 
 ### Hi there! My name is Gabriel Ribeiro. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently a masters student of Physics at the Federal University of Pará. 
+I am currently a PhD student of Physics at the Federal University of Pará. 
 
 Current and previous work
 ======
